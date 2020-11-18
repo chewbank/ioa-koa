@@ -1,9 +1,8 @@
 {
   "name": "@chewbank/ioa-koa",
-  "version": "9.8.7",
+  "version": "9.8.8",
   "description": "ioa.js & koa.js http组件",
   "scripts": {
-    "publish": "npm publish --access public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
