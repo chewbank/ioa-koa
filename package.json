@@ -1,6 +1,6 @@
 {
   "name": "@chewbank/ioa-koa",
-  "version": "9.8.5",
+  "version": "9.8.6",
   "description": "ioa.js & koa.js http组件",
   "scripts": {
     "publish": "npm publish --access public",
