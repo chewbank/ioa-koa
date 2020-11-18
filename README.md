@@ -9,7 +9,7 @@ npm install @ioa/koa
 ```
 
 ```js
-const ioa = require('ioa');
+const ioa = require('@chewbank/ioa');
 
 ioa.app("./main");
 ```
